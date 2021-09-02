@@ -1,0 +1,11 @@
+Lab1: Git
+
+checkout is used to change repositories
+
+step 1: Git init:- Initialize git repositary
+step 2: Git status:- Check weather they are on local workspace or they are about to commit
+step 3: git add filename (or) git add .
+step 4: git commit
+
+git config --global user.email <github email>
+git config --global user.username <github username>
